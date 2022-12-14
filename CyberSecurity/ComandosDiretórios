@@ -1,0 +1,44 @@
+<h1> Comandos de diretórios </h1>
+
+-pwd 
+Permite ver qual o diretório q está 
+
+-mkdir
+Cria um diretório 
+
+-mkdir -p (novoDiretorio/sub/subsub)
+O -p faz com q a criação da pasta seja da esquerda para a direita, por padrão ela começa da direita 
+
+-cp (arquivo) (nome do novo arquivo)
+Permite copiar arquivos ou diretórios inteiros 
+
+-cp (arquivo) /tmp/(nome novo caso queira trocar)
+Pode copiar o arquivo para algum diretório 
+
+-mv (arquivo) (Novo nome)
+Renomear arquivo
+
+-mv (arquivo)/ /tmp
+Move o arquivo para outro diretório 
+
+-rmdir (diretório) 
+Apaga um diretório
+
+-rm (arquivo)
+Apaga arquivos comuns desde que tenha permissão de escrita
+
+-rm -rf (diretório)
+r = apaga tudo q tem dentro dele
+f = força a remoção  
+
+-wget (link do arquivo da internet)
+Baixa o arquivo da internet 
+
+-links (link do site ex: www.kernel.org)
+Abre uma interface gráfica em linha de comandos 
+Serve para baixar arquivos da internet
+
+-apt install unzip
+
+-unzip (arquivo zip)
+Descompacta o arquivos 
