@@ -1,7 +1,7 @@
 <h1> Api </h1>
 
-De uma forma simples O conceito de API nada mais é do que uma forma de comunicação entre sistemas. 
-Ou seja, elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem 
+De uma forma simples o conceito de API nada mais é do que uma forma de comunicação entre sistemas
+ou seja, elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem 
 ser utilizados pelo outro, por exemplo um sistema de meteorologia e o outro sistema utiliza desses dados por meio da API.
 
 <h1> Rest </h1>
